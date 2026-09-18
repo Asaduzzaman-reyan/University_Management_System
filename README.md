@@ -1,8 +1,6 @@
-# University Resource Management System (URMS)
+# University Management System (UMS)
 
-URMS is a server-rendered PHP application for managing university rooms, bookings, announcements, important dates, faculty records, feedback, and reports.
-
-This project was developed for **CSE327 - Software Engineering (Section 3)**.
+UMS is a server-rendered PHP application for managing university rooms, bookings, announcements, important dates, faculty records, feedback, and reports.
 
 ## Features
 
